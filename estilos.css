@@ -80,3 +80,20 @@ footer {
     padding: 18px;
     margin-top: 20px;
 }
+
+#promociones {
+    background-color: #e8d5c4;
+}
+
+.promocion {
+    background-color: white;
+    margin: 15px auto;
+    padding: 20px;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+}
+
+.promocion h3 {
+    color: #6f4e37;
+}
